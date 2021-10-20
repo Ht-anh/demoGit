@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>loginWrongPass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea9a5ae6-0c31-40e9-b0d3-ab2b2add6043</testCaseGuid>
+</TestCaseEntity>
